@@ -113,6 +113,10 @@ color:rgba(232, 95, 16, 0.947);
 .left > h2 ,h3 ,p{
     color: white;
 }
+.right img{
+    width: 400px;
+    height: 400px;
+}
 .setting{
     
     margin-left: 163px;
